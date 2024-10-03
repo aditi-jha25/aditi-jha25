@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Aditi Jha
 
 Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning. My GitHub showcases projects and explorations in AI/ML, and I'm always looking to expand my knowledge in this exciting field. 
+📫 How to reach me aditijhaaj2510@gmail.com
  
 
 ## 🔗 Connect with me:
